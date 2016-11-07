@@ -18,7 +18,7 @@ class linearRegress(object):
                 self.LRDict['ridge'][4] = mat(self.LRDict['ridge'][4])  
 
                 
-//新的算法
+##新的算法
 
 import pandas as pd
 import statsmodels.api as sm
