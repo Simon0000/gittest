@@ -2,6 +2,6 @@
 
 -	左对齐	居中对齐	右对齐
 :-:	:-	:-:	-:
-1	Left	Center	Right
+1	Left  Center	Right
 2	Left	Center	Right
 3	Left	Center	Right
