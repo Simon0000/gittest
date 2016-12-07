@@ -42,3 +42,6 @@ print df.head()
 df.columns = ["admit", "gre", "gpa", "prestige"]
 print df.columns
 # array([admit, gre, gpa, prestige], dtype=object)
+
+
+##这是一个修改测试
